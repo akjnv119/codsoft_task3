@@ -1,0 +1,19 @@
+.text-centre{
+    text-align: center;
+}
+.bg{
+    background-image: url(calc.jpg);
+    
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.mx-auto{
+    margin: 0%;
+}
+.item-centre{
+    align-items: center;
+}
